@@ -12,3 +12,4 @@ This course will provide an overview of TypeScript, a statically typed superset 
 ## Updates
 ### 02/03/2016
 - Finished Week 1 | Module 1. Introducing TypeScript
+- Finished Week 1 | Module 2: What's New and Getting Things Set Up

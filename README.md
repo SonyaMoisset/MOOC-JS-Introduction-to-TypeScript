@@ -8,8 +8,11 @@ This course will provide an overview of TypeScript, a statically typed superset 
 - Module 1. Introducing TypeScript
 - Module 2: What's New and Getting Things Set Up
 
+### Week 2. TypeScript Basic Types and Functions
+- Module 3. Basic Types
 
 ## Updates
 ### 02/03/2016
 - Finished Week 1 | Module 1. Introducing TypeScript
 - Finished Week 1 | Module 2: What's New and Getting Things Set Up
+- Finished Week 2 | Module 3. Basic Types

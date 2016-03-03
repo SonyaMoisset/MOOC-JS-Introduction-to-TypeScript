@@ -25,3 +25,4 @@ This course will provide an overview of TypeScript, a statically typed superset 
 
 ### 03/03/2016
 - Finished Week 3 | Module 5. Introduction to Classes
+- Finished Week 3 | Module 6. Constructors and Inheritance

@@ -16,6 +16,10 @@ This course will provide an overview of TypeScript, a statically typed superset 
 - Module 5. Introduction to Classes
 - Module 6. Constructors and Inheritance
 
+### Week 4. TypeScript Interfaces
+- Module 7. Interfaces Part 1
+- Module 8. Interface Part 2
+
 ## Updates
 ### 02/03/2016
 - Finished Week 1 | Module 1. Introducing TypeScript
@@ -26,3 +30,6 @@ This course will provide an overview of TypeScript, a statically typed superset 
 ### 03/03/2016
 - Finished Week 3 | Module 5. Introduction to Classes
 - Finished Week 3 | Module 6. Constructors and Inheritance
+
+### 04/03/2016
+- Finished Week 4 | Module 7. Interfaces Part 1

@@ -12,9 +12,16 @@ This course will provide an overview of TypeScript, a statically typed superset 
 - Module 3. Basic Types
 - Module 4. Functions
 
+### Week 3. TypeScript classes
+- Module 5. Introduction to Classes
+- Module 6. Constructors and Inheritance
+
 ## Updates
 ### 02/03/2016
 - Finished Week 1 | Module 1. Introducing TypeScript
 - Finished Week 1 | Module 2: What's New and Getting Things Set Up
 - Finished Week 2 | Module 3. Basic Types
 - Finished Week 2 | Module 4. Functions
+
+### 03/03/2016
+- Finished Week 3 | Module 5. Introduction to Classes

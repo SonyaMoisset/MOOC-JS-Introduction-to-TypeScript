@@ -18,7 +18,7 @@ This course will provide an overview of TypeScript, a statically typed superset 
 
 ### Week 4. TypeScript Interfaces
 - Module 7. Interfaces Part 1
-- Module 8. Interface Part 2
+- Module 8. Interfaces Part 2
 
 ## Updates
 ### 02/03/2016
@@ -33,3 +33,4 @@ This course will provide an overview of TypeScript, a statically typed superset 
 
 ### 04/03/2016
 - Finished Week 4 | Module 7. Interfaces Part 1
+- Finished Week 4 | Module 8. Interfaces Part 2

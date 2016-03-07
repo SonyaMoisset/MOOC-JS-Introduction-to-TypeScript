@@ -20,6 +20,9 @@ This course will provide an overview of TypeScript, a statically typed superset 
 - Module 7. Interfaces Part 1
 - Module 8. Interfaces Part 2
 
+### Week 5. Generics
+- Module 9. Generics
+
 ## Updates
 ### 02/03/2016
 - Finished Week 1 | Module 1. Introducing TypeScript
@@ -34,3 +37,6 @@ This course will provide an overview of TypeScript, a statically typed superset 
 ### 04/03/2016
 - Finished Week 4 | Module 7. Interfaces Part 1
 - Finished Week 4 | Module 8. Interfaces Part 2
+
+### 07/03/2016
+- Finished Week 5 | Module 9. Generics
